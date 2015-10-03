@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "DFWeChatView/DFChatView/**/*.{h,m}"
-  //s.exclude_files = "Classes/Exclude"
+  #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
