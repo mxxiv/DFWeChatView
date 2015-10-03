@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DFWeChatView"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "仿微信聊天界面"
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/anyunzhong/DFWeChatView.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/anyunzhong/DFWeChatView.git", :tag => "1.1.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -105,7 +105,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = "DFWeChatView/DFChatView/Resource/*.png"
+  s.resources = "DFWeChatView/DFChatView/Resource/**/*.*"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
