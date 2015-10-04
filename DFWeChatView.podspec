@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "DFWeChatView"
-  s.version      = "1.1.3"
+  s.version      = "1.1.5"
   s.summary      = "仿微信聊天界面"
 
   s.homepage     = "https://github.com/anyunzhong/DFWeChatView"
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/anyunzhong/DFWeChatView.git", :tag => "1.1.3" }
+  s.source       = { :git => "https://github.com/anyunzhong/DFWeChatView.git", :tag => "1.1.5" }
 
 
   s.source_files  = "DFWeChatView/DFChatView/**/*.{h,m}"
