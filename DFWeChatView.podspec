@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "DFWeChatView/DFChatView/**/*.{h,m}"
 
-  s.resources = "DFWeChatView/DFChatView/Resource/*.png"
+  s.resources = "DFWeChatView/DFChatView/Resource/**/*.png"
 
   s.frameworks = "AVFoundation", "AssetsLibrary"
 
